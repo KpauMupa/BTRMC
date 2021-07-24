@@ -1,0 +1,7 @@
+{
+  "makeJPEGs": false,
+  "jpegCompression": 0.9,
+  "optimisedOutput": true,
+  "showOptimisationStatus": true,
+  "pngOptimisationLevel": 3
+}
