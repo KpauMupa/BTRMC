@@ -42,7 +42,7 @@ Control + B    |Открыть меню настройки мода "Bedrockify"
 [Clean View](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | Добавляет бинд, по нажатию которого можно отключить частицы от ваших зелий. Вы продолжите видеть частицы зелий на других сущностях и игроках
 [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Оптимизирует шарики опыта, сбивая небольшие кучи в один большой шар. Для работы на серверах должен быть установлен и на стороне сервера
 [Color Unchained](https://github.com/Draylar/color-unchained) | Добавляет возможность писать цветным текстом на табличках и в чат (не все сервера поддерживают подобные вещи)
-[C2ME](https://github.com/ishlandbukkit/C2ME-fabric) | Улучшает производительность чанков, влияет на скорость загрузки чанков
+[Concurrent Chunk Management Engine (C2ME)](https://github.com/ishlandbukkit/C2ME-fabric) | Улучшает производительность чанков, влияет на скорость загрузки чанков
 [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | Улучшает производительность в лесах, оптимизируя процесс отрисовки блоков листвы. Идёт с ресурспаком (можно включить в меню ресурспаков), имитирующем функцию "Умных листьев" из оптифайна
 [Cull Particles](https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric) | Оптимизирует отрисовку частиц, не отрисовывает частицы вне поля зрения игрока
 [Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt) | Чинит очень старый баг. Теперь, при получении урона игроком, ваша камера слегка наклоняется в сторону, откуда был получен урон
@@ -86,3 +86,12 @@ Control + B    |Открыть меню настройки мода "Bedrockify"
 [Smooth Scrolling Everywhere](https://curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Добавляет плавную анимацию прокрутки во все игровые меню, от инвентаря креатива до меню настроек
 [Starlight](https://github.com/PaperMC/Starlight) | Лучшая альетрантива моду Phosphor. Этот мод переписывает движок освещения и исправляет множественные проблемы с производительностью и ошибки света
 [Visual Overhaul](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul) | Улучшает вид некоторых блоков в игре (необходимо включить три сопутствующих ресурспака в настройках, они встроены в мод)
+
+### Моды-API и Моды-библиотеки
+
+Мод | Функция
+:---|:--
+[Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) | Мод-API, необходимый для ["Slight" GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
+[Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | Необходим большинству модов на Фабрике
+[Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) | Необходим некоторым модам на Фабрике
+[Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-api) | Необходим некоторым модам на Фабрике
