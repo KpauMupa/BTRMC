@@ -58,4 +58,31 @@ Control + B    |Открыть меню настройки мода "Bedrockify"
 [FastFurnace](https://github.com/Tfarcenim/FabricFastFurnace) | Оптимизирует блоки печи, плавильни и коптильни, что повышает TPS на серверах и в одиночных мирах
 [FerritCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Оптимизирует использование оперативной памяти Майнкрафтом, что особенно заметно в больших сборках модов, как эта
 [FirstPerson Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model) | Отрисовывает модель игрока от первого лица, позволяя вам видеть ваше тело
+[Hydrogen](https://github.com/CaffeineMC/hydrogen-fabric) | Оптимизирует использование памяти ванильным Майнкрафтом. Содержит в себе "опасные" функции, которые не вошли в Lithium
+[Iris](https://github.com/IrisShaders/Iris) | Мод на шейдеры для фабрика, совместимый с Содиумом. Пока поддерживает лишь небольшое количество шейдеров, но находится в активной разработке
+[Isometric Renders](https://www.curseforge.com/minecraft/mc-mods/isometric-renders) | Позволяет делать красивые изометрические скриншоты
+[Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Чинит древнюю ошибку, из-за которой на стыке текстур предметов была видна раздражающая прозрачная линия
+[Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller) | Улучшает взаимодействие с предметами в сундуках, позволяя забирать по одной штуке из стака прокручиванием колеса мыши. Позволяет забирать целые стаки, просто проводясь по ним ЛКМ с зажатым шифтом
+[Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Оптимизирует использование сети и процессора Майнкрафтом. Сильно улучшает производительность на машинах под операционной системой GNU/Linux. Нацелен на  сервера, но и как отдельный мод небесполезен
+[LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) | Воспроизводит оптифайновскую функцию "динамического освещения", позволяя некоторым предметам в руках излучать свет
+[LazyDFU](https://github.com/astei/lazydfu) | Оптимизирует процесс запуска игры, усоркяя тем самым загрузку
+[Lithium](https://github.com/CaffeineMC/lithium-fabric) | Улучшает общую производительность игры
+[MAmbiance](https://www.curseforge.com/minecraft/mc-mods/mambience) | Добавляет атмосферные звуки окружающей среды в зависимости от местонахождения игрока
+[MicroDurability](https://www.curseforge.com/minecraft/mc-mods/microdurability) | Добавляет небольшой индикатор прочности брони в ванильном стиле над хотбаром
+[Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) | Добавляет меню со списком всех установленных модов
+[MultiConnect](https://github.com/Earthcomputer/multiconnect) | Позволяет подключаться к серверам, требующим более старую версию для входа (настроить версию можно в меню настройки сервера, к которому вы хотите подключиться)
+[Narator Off](https://www.curseforge.com/minecraft/mc-mods/narrator-off) | Отключает экранного диктора Майнкрафта, освобождая вам ещё одну комбинацию клавиш
+[Nicephore](https://www.curseforge.com/minecraft/mc-mods/nicephore-fabric) | Ускоряет процесс создания скриншота и добавляет удобное игровое меню со всеми вашими скриншотами, с возможностью копировать или удалить любой сннимок экрана. Добавляет бинд на моментальное копирование последнего скриншота в буфер обмена. В файле config/nicephore.json можно включить создание сжатых дубликатов скриншотов в формате .jpeg
+[No More Glowing Pots](https://github.com/zabi94/NoMoreGlowingPots) | Отключает анимацию зачарованного блеска у зелий
+[No More Useless Keys](https://github.com/Siphalor/nmuk) | Позволяет делать по два и более бинда на одну функцию, если вам это нужно (хорошо сочетается с [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs), уже установеллной в этой сборке)
+[Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | Очень полезный мод, который, в случае краша игры, выводит информацию о краше и выбрасывает вас в **главное меню игры**, вместо того, чтобы закрыть её
+[Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) | Добавляет множество новых анимаций для модели игрока (хорошо сочетается с [FirstPerson Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model), уже установленном в этой сборке)
+[Ok, Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) | Добавляет функцию приближения, как ОптиФаайновский зум, но может быть более гибко настроен и переназначен на другую клавишу
+[Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain) | Заменяет стандартную погоду Майнкрафта (дождь и снег) на частицы, что позволяет более гибко настроить погоду и улучшает производительность
+[Pling](https://github.com/haykam821/Pling#readme) | Простой мод, проигрывающий приятный звук по окончанию загрузки игры, чтобы вы не пропустили этот момент
+[Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) | Улучшает звуки шагов по разным блокам, исправляет некоторые связанные со звуками шагов баги
+[Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen) | Делает снимок экрана перед вашим выходом из мира/сервера, который в следующий раз будет служить вашим загрузочным экраном, чтобы переход между загрузкой к игре был "бесшовным"
+[Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Резко увеличивает скорость загрузки Майнкрафта, оптимизируя использование ресурсов игрой при запуске
+[Smooth Scrolling Everywhere](https://curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Добавляет плавную анимацию прокрутки во все игровые меню, от инвентаря креатива до меню настроек
+[Starlight](https://github.com/PaperMC/Starlight) | Лучшая альетрантива моду Phosphor. Этот мод переписывает движок освещения и исправляет множественные проблемы с производительностью и ошибки света
 [Visual Overhaul](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul) | Улучшает вид некоторых блоков в игре (необходимо включить три сопутствующих ресурспака в настройках, они встроены в мод)
