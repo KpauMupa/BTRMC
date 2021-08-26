@@ -38,5 +38,24 @@ Control + B    |Открыть меню настройки мода "Bedrockify"
 [Camea Overhaul](https://curseforge.com/minecraft/mc-mods/cameraoverhaul) | Добавляет приятное и реалистичное покачивание камеры при поворотах, падении и в полёте
 [Capes mod](https://www.curseforge.com/minecraft/mc-mods/capes) | Добавляет поддержку плащей от OptiFine, LabyMod и MinecraftCapes mod
 [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) | Добавляет головы скинов говорящих в чат перед их сообщениями
-
+[Chest Tracker](https://www.curseforge.com/minecraft/mc-mods/chest-tracker) | Добавляет возможность отследить предмет, на который наведён курсор, и найти его во всех ближайших сундуках
+[Clean View](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | Добавляет бинд, по нажатию которого можно отключить частицы от ваших зелий. Вы продолжите видеть частицы зелий на других сущностях и игроках
+[Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Оптимизирует шарики опыта, сбивая небольшие кучи в один большой шар. Для работы на серверах должен быть установлен и на стороне сервера
+[Color Unchained](https://github.com/Draylar/color-unchained) | Добавляет возможность писать цветным текстом на табличках и в чат (не все сервера поддерживают подобные вещи)
+[C2ME](https://github.com/ishlandbukkit/C2ME-fabric) | Улучшает производительность чанков, влияет на скорость загрузки чанков
+[Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | Улучшает производительность в лесах, оптимизируя процесс отрисовки блоков листвы. Идёт с ресурспаком (можно включить в меню ресурспаков), имитирующем функцию "Умных листьев" из оптифайна
+[Cull Particles](https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric) | Оптимизирует отрисовку частиц, не отрисовывает частицы вне поля зрения игрока
+[Damage Tilt](https://www.curseforge.com/minecraft/mc-mods/damage-tilt) | Чинит очень старый баг. Теперь, при получении урона игроком, ваша камера слегка наклоняется в сторону, откуда был получен урон
+[Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | Искусственно понижает кадры в секунду Майнкрафта, пока вы сворачиваете игру, чтобы не тратить ресурсы компьютера
+[Dynamic Music](https://www.curseforge.com/minecraft/mc-mods/dynamic-music) | Добавляет динамическую музыку, работает на погружение в игру
+[Dynamic Sound Filters](https://www.curseforge.com/minecraft/mc-mods/dynamic-sound-filters) | Добавляет динамический фильтр звуков, имитирует эхо в закрытых помещениях (например, в пещерах)
+[Edit Sign](https://www.curseforge.com/minecraft/mc-mods/edit-sign) | Позволяет редактировать уже завершённые таблички нажатием правой кнопки мыши
+[Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | Добавляет описания зачарованиям
+[EntityCulling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | Оптимизирует отрисовку сущностей, не отрисовывает сущностей, которых не видно на экране
+[Extra Sounds](https://www.curseforge.com/minecraft/mc-mods/extrasounds) | Добавляет множество дополнительных звуков в игру, добавляет звуки интерфесу
+[Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric) | Добавляет частицы падающих листьев с деревьев
+[FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | Оптимизирует блок сундука, что позволяет существенно повысить FPS в местах с большими количествами сундуков
+[FastFurnace](https://github.com/Tfarcenim/FabricFastFurnace) | Оптимизирует блоки печи, плавильни и коптильни, что повышает TPS на серверах и в одиночных мирах
+[FerritCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Оптимизирует использование оперативной памяти Майнкрафтом, что особенно заметно в больших сборках модов, как эта
+[FirstPerson Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model) | Отрисовывает модель игрока от первого лица, позволяя вам видеть ваше тело
 [Visual Overhaul](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul) | Улучшает вид некоторых блоков в игре (необходимо включить три сопутствующих ресурспака в настройках, они встроены в мод)
