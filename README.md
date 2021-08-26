@@ -23,8 +23,20 @@ Control + B    |Открыть меню настройки мода "Bedrockify"
 
 ## Моды
 
+### Функциональные моды
 Мод | Функция
 :---|:--
 ["Slight" GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Улучшает взаимодействие с интерфейсом игры, добавляет приятные анимации
 [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs) | Добавляет возможность ставить кастомные комбинации клавиш на разные действия, расширяет список используемых клавиш
 [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | Позволяет обновлять блоки вокруг вас на серверах, что помогает в случае застревания в невидимых блоках
+[Bedrockify](https://www.curseforge.com/minecraft/mc-mods/bedrockify) | Переносит многие интересные фишки с издания Bedrock Edition 
+[Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Оптимизирует отрисовку кроватей и добавляет им поддержку текстурпаков (без этого мода для изменения текстуры кровати необходим ОптиФайн). Идёт со встроенным текстурпаком на 3D кровати
+[Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) | Перерабатывает механику вида от третьего лица, делая её более удобной и привычной, как в большинстве других игр жанра РПГ
+[BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) | Перерабатывает меню отладки (F3), делая его более упорядоченным и добавляя переводы на разные языки
+[Blur](https://www.curseforge.com/minecraft/mc-mods/blur-fabric) | Добавляет эффект размытия в игровые меню
+[Boosted Brightness](https://github.com/adamviola/BoostedBrightness) | Добавляет возможность более гибко менять яркость и превышать стандартное ограничение яркости Майнкрафта
+[Camea Overhaul](https://curseforge.com/minecraft/mc-mods/cameraoverhaul) | Добавляет приятное и реалистичное покачивание камеры при поворотах, падении и в полёте
+[Capes mod](https://www.curseforge.com/minecraft/mc-mods/capes) | Добавляет поддержку плащей от OptiFine, LabyMod и MinecraftCapes mod
+[Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads) | Добавляет головы скинов говорящих в чат перед их сообщениями
+
+[Visual Overhaul](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul) | Улучшает вид некоторых блоков в игре (необходимо включить три сопутствующих ресурспака в настройках, они встроены в мод)
