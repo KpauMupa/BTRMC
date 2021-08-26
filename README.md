@@ -76,7 +76,7 @@ Control + B    |Открыть меню настройки мода "Bedrockify"
 [No More Glowing Pots](https://github.com/zabi94/NoMoreGlowingPots) | Отключает анимацию зачарованного блеска у зелий
 [No More Useless Keys](https://github.com/Siphalor/nmuk) | Позволяет делать по два и более бинда на одну функцию, если вам это нужно (хорошо сочетается с [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs), уже установеллной в этой сборке)
 [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | Очень полезный мод, который, в случае краша игры, выводит информацию о краше и выбрасывает вас в **главное меню игры**, вместо того, чтобы закрыть её
-[Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) | Добавляет множество новых анимаций для модели игрока (хорошо сочетается с [FirstPerson Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model), уже установленном в этой сборке)
+[Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) | Добавляет множество новых анимаций для модели игрока и исправляет некоторые старые (хорошо сочетается с [FirstPerson Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model), уже установленном в этой сборке)
 [Ok, Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) | Добавляет функцию приближения, как ОптиФаайновский зум, но может быть более гибко настроен и переназначен на другую клавишу
 [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain) | Заменяет стандартную погоду Майнкрафта (дождь и снег) на частицы, что позволяет более гибко настроить погоду и улучшает производительность
 [Pling](https://github.com/haykam821/Pling#readme) | Простой мод, проигрывающий приятный звук по окончанию загрузки игры, чтобы вы не пропустили этот момент
@@ -93,5 +93,6 @@ Control + B    |Открыть меню настройки мода "Bedrockify"
 :---|:--
 [Architectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) | Мод-API, необходимый для ["Slight" GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
 [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | Необходим большинству модов на Фабрике
-[Cloth API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) | Необходим некоторым модам на Фабрике
-[Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-api) | Необходим некоторым модам на Фабрике
+[Fabric Language Kotlin](https://minecraft.curseforge.com/projects/fabric-language-kotlin) | Мод, подключающий язык программирования "Kotlin" для других модов (например, [Capes mod](https://www.curseforge.com/minecraft/mc-mods/capes))
+[MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | Мод-библиотека, необходим моду [Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller)
+[TransliterationLib](https://github.com/tr7zw/TRansliterationLib) | Мод-библиотека, необходим модам, сделанным сразу и под Forge, и под Fabric (например, [FirstPerson Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model) и [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations))
