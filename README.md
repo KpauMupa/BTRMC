@@ -76,7 +76,7 @@ Control + B    |Открыть меню настройки мода "Bedrockify"
 [FerritCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Оптимизирует использование оперативной памяти Майнкрафтом, что особенно заметно в больших сборках модов, как эта
 [FirstPerson Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model) | Отрисовывает модель игрока от первого лица, позволяя вам видеть ваше тело
 [Hydrogen](https://github.com/CaffeineMC/hydrogen-fabric) | Оптимизирует использование памяти ванильным Майнкрафтом. Содержит в себе "опасные" функции, которые не вошли в Lithium
-[Iris](https://github.com/IrisShaders/Iris) | Мод на шейдеры для фабрика, совместимый с Содиумом. Пока поддерживает лишь небольшое количество шейдеров, но находится в активной разработке
+[Iris-Starline](https://github.com/HyperCubeMC/Iris) | Форк известного мода "Ирис" на шейдеры для фабрика, совместимый с Содиумом. Пока поддерживает лишь небольшое количество шейдеров, но находится в активной разработке. Форк добавляет возможность настраивать шейдеры, пусть и не все опции пока доступны/работают
 [Isometric Renders](https://www.curseforge.com/minecraft/mc-mods/isometric-renders) | Позволяет делать красивые изометрические скриншоты
 [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Чинит древнюю ошибку, из-за которой на стыке текстур предметов была видна раздражающая прозрачная линия
 [Item Scroller](https://www.curseforge.com/minecraft/mc-mods/item-scroller) | Улучшает взаимодействие с предметами в сундуках, позволяя забирать по одной штуке из стака прокручиванием колеса мыши. Позволяет забирать целые стаки, просто проводясь по ним ЛКМ с зажатым шифтом
@@ -101,7 +101,9 @@ Control + B    |Открыть меню настройки мода "Bedrockify"
 [Seamless Loading Screen](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen) | Делает снимок экрана перед вашим выходом из мира/сервера, который в следующий раз будет служить вашим загрузочным экраном, чтобы переход между загрузкой к игре был "бесшовным"
 [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Резко увеличивает скорость загрузки Майнкрафта, оптимизируя использование ресурсов игрой при запуске
 [Smooth Scrolling Everywhere](https://curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Добавляет плавную анимацию прокрутки во все игровые меню, от инвентаря креатива до меню настроек
+[Sodium-Starline](https://github.com/HyperCubeMC/sodium-fabric) | Форк известного мода "Содиум", очень сильно оптимизирующего игру. Форк отличается от обычной версии наличием поддержки Iris-Starline от того же разработчика
 [Starlight](https://github.com/PaperMC/Starlight) | Лучшая альетрантива моду Phosphor. Этот мод переписывает движок освещения и исправляет множественные проблемы с производительностью и ошибки света
+[Third Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) | Отображает карту из руки в углу экрана при игре от третьего лица
 [Visual Overhaul](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul) | Улучшает вид некоторых блоков в игре (необходимо включить три сопутствующих ресурспака в настройках, они встроены в мод)
 
 ### Моды-API и Моды-библиотеки
