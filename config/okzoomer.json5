@@ -34,14 +34,16 @@
 		"minimum_zoom_divisor": 1.0,
 		// The maximum value that you can scroll up.
 		"maximum_zoom_divisor": 50.0,
-		// The number which is de/incremented by zoom scrolling. Used when the zoom divisor is above the starting point.
+		"minimum_zoomed_f_o_v": 30.0,
+		"maximum_zoomed_f_o_v": 110.0,
+		// The number which is decremented or incremented by zoom scrolling. Used when the zoom divisor is above the starting point.
 		"scroll_step": 1.0,
-		// The number which is de/incremented by zoom scrolling. Used when the zoom divisor is below the starting point.
+		// The number which is decremented or incremented by zoom scrolling. Used when the zoom divisor is below the starting point.
 		"lesser_scroll_step": 0.5,
-		// The multiplier used for the multiplied cinematic camera.
-		"cinematic_multiplier": 4.0,
 		// The multiplier used for smooth transitions.
 		"smooth_multiplier": 0.75,
+		// The multiplier used for the multiplied cinematic camera.
+		"cinematic_multiplier": 4.0,
 		// The minimum value which the linear transition step can reach.
 		"minimum_linear_step": 0.125,
 		// The maximum value which the linear transition step can reach.
@@ -52,9 +54,7 @@
 		"reset_zoom_with_mouse": true,
 		// If enabled, the "Save Toolbar Activator" keybind will be unbound if there's a conflict with the zoom key.
 		"unbind_conflicting_key": false,
-		// Prints a random owo in the console when the game starts.
-		"print_owo_on_start": false,
-		// Hides the zoom overlay while the HUD's hidden.
-		"hide_zoom_overlay": false
+		// Prints a random owo in the console when the game starts. Enabled by default until full release.
+		"print_owo_on_start": true
 	}
 }

@@ -13,7 +13,7 @@
       }
     },
     "openGuiConfigs": {
-      "keys": "A,B",
+      "keys": "A,N",
       "settings": {
         "activate_on": "PRESS",
         "context": "INGAME",
