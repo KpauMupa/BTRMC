@@ -109,7 +109,7 @@ Control + B    |Открыть меню настройки мода "Bedrockify"
 [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | Резко увеличивает скорость загрузки Майнкрафта, оптимизируя использование ресурсов игрой при запуске
 [Smooth Scrolling Everywhere](https://curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Добавляет плавную анимацию прокрутки во все игровые меню, от инвентаря креатива до меню настроек
 [Sodium-Starline](https://github.com/HyperCubeMC/sodium-fabric) | Форк известного мода "Содиум", очень сильно оптимизирующего игру. Форк отличается от обычной версии наличием поддержки Iris-Starline от того же разработчика
-[Starlight](https://github.com/PaperMC/Starlight) | Лучшая альетрантива моду Phosphor. Этот мод переписывает движок освещения и исправляет множественные проблемы с производительностью и ошибки света
+[Starlight](https://github.com/PaperMC/Starlight) | Лучшая альтернатива моду Phosphor. Этот мод переписывает движок освещения и исправляет множественные проблемы с производительностью и ошибки света
 [Third Person Maps](https://www.curseforge.com/minecraft/mc-mods/third-person-maps) | Отображает карту из руки в углу экрана при игре от третьего лица
 [Visual Overhaul](https://www.curseforge.com/minecraft/mc-mods/visual-overhaul) | Улучшает вид некоторых блоков в игре (необходимо включить три сопутствующих ресурспака в настройках, они встроены в мод)
 
